@@ -1,0 +1,66 @@
+body{
+    background-image: url(taytay2.jpg);
+      display: flex;
+      justify-content: center;   
+      text-align: center;
+      justify-content: center;
+  }
+  
+
+
+
+main{
+   border: 2px solid rgb(5, 50, 95);
+    background-color: rgb(7, 83, 160);
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+h1{
+    color: rgb(9, 126, 242);
+    font-family:monospace;
+}
+p{
+    color: rgb(17, 200, 241);
+}
+.casa{
+  border: 2px solid rgb(5, 50, 95);
+    width: 150px;
+    height: 150px;
+    font-size: 80px;
+    color: rgb(55, 172, 245);
+    text-align: center;
+    line-height: 150px;
+  
+}
+.linha{
+    display: grid;
+    grid-template-columns: 150px 150px 150px;
+    justify-items: center;
+}
+
+
+button{
+   
+color: rgb(3, 31, 73);
+background-color: rgb(12, 204, 252);
+width: 100px;
+height: 50px;
+margin-bottom: 5px;
+}
+#placar{
+text-align: center;
+font-size: 18px;
+
+
+}
+#div1{
+
+text-align: left;
+margin-left: 4px;
+
+
+}
+  
